@@ -1,0 +1,102 @@
+{
+    "nombreEmpresa": "ProffesionalWolrd",
+    "logo": "https://swforms.professionalworld.mx/admin/img/logo.png",
+    "userImage": "https://img.freepik.com/psd-gratis/ilustracion-3d-avatar-o-perfil-humano_23-2150671142.jpg",
+    "menuColor": {
+        "r": 51,
+        "g": 194,
+        "b": 230,
+        "opacity": 1.0
+    },
+    "menus":[
+        {
+            "key": "1",
+            "trailing": "hola",
+            "iconColor": {
+                "r": 231,
+                "g": 3,
+                "b": 3,
+                "opacity": 1.0
+            },
+            "tileColor": {
+                "r": 3,
+                "g": 94,
+                "b": 231,
+                "opacity": 1.0
+            },
+            "selectedColor": {
+                "r": 250,
+                "g": 250,
+                "b": 250,
+                "opacity": 1.0
+            },
+            "selectedTileColor": {
+                "r": 255,
+                "g": 124,
+                "b": 202,
+                "opacity": 1.0
+            },
+            "hoverColor": {
+                "r": 97,
+                "g": 217,
+                "b": 247,
+                "opacity": 1.0
+            },
+            "textColor": {
+                "r": 247,
+                "g": 245,
+                "b": 97,
+                "opacity": 1.0
+            },
+            "subtitle":"data",
+            "title": "Title",
+            "icon": "dashboard"
+
+        },
+        {
+            "key": "2",
+            "trailing": "hola",
+            "iconColor": {
+                "r": 231,
+                "g": 3,
+                "b": 3,
+                "opacity": 1.0
+            },
+            "tileColor": {
+                "r": 3,
+                "g": 94,
+                "b": 231,
+                "opacity": 1.0
+            },
+            "selectedColor": {
+                "r": 250,
+                "g": 250,
+                "b": 250,
+                "opacity": 1.0
+            },
+            "selectedTileColor": {
+                "r": 255,
+                "g": 124,
+                "b": 202,
+                "opacity": 1.0
+            },
+            "hoverColor": {
+                "r": 97,
+                "g": 217,
+                "b": 247,
+                "opacity": 1.0
+            },
+            "textColor": {
+                "r": 247,
+                "g": 245,
+                "b": 97,
+                "opacity": 1.0
+            },
+            "subtitle":"data",
+            "title": "Title 2",
+            "icon": "dashboard"
+
+        }
+    ]
+
+}
